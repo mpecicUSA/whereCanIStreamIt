@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it should render the app renders a App Component 1`] = `
+<div
+  className="App"
+>
+  <div>
+    a
+  </div>
+  <div>
+    This is a card
+  </div>
+</div>
+`;
+
+exports[`it should render the app renders a Card Component 1`] = `
+<div>
+  This is a card
+</div>
+`;
+
+exports[`it should render the app renders a Outline Component 1`] = `
+<div>
+  This is an outline
+</div>
+`;
+
+exports[`it should render the app renders a navBar Component 1`] = `
+<div>
+  a
+</div>
+`;
